@@ -1,10 +1,12 @@
-📄 Document Scanner
+## 📄Document Scanner
 
 A lightweight document-scanning application built with Python, OpenCV, and Streamlit.
 
 The project uses classical computer vision techniques only — no deep learning or neural networks.
 
-The goal is to take a photograph of a receipt or printed page, automatically detect the document, correct its perspective, and produce a clean black-and-white scanned version.
+The goal is to take a photograph of a receipt or printed page, automatically detect the document, correct its perspective, and produce a clean black-and-white scanned version
+
+## Live Demo: https://doc-scanner-46p6yhgchbmhjdmqjhve3s.streamlit.app/
 
 ✨ Features
 
